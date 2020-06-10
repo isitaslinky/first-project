@@ -2,4 +2,13 @@
 
 Welcome! [Code Insitute](https://codeinstitude.net)
 
-## h2
+Currently used is the following technologies:
+
+- Github
+- Gitpod
+- HTML
+- CSS
+
+Special Credit:
+- Wikipedia
+- Google
